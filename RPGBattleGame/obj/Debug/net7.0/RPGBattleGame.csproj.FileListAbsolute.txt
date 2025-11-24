@@ -1,0 +1,15 @@
+C:\projects\RPGBattleGame\RPGBattleGame\bin\Debug\net7.0\RPGBattleGame.exe
+C:\projects\RPGBattleGame\RPGBattleGame\bin\Debug\net7.0\RPGBattleGame.deps.json
+C:\projects\RPGBattleGame\RPGBattleGame\bin\Debug\net7.0\RPGBattleGame.runtimeconfig.json
+C:\projects\RPGBattleGame\RPGBattleGame\bin\Debug\net7.0\RPGBattleGame.dll
+C:\projects\RPGBattleGame\RPGBattleGame\bin\Debug\net7.0\RPGBattleGame.pdb
+C:\projects\RPGBattleGame\RPGBattleGame\obj\Debug\net7.0\RPGBattleGame.csproj.AssemblyReference.cache
+C:\projects\RPGBattleGame\RPGBattleGame\obj\Debug\net7.0\RPGBattleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\RPGBattleGame\RPGBattleGame\obj\Debug\net7.0\RPGBattleGame.AssemblyInfoInputs.cache
+C:\projects\RPGBattleGame\RPGBattleGame\obj\Debug\net7.0\RPGBattleGame.AssemblyInfo.cs
+C:\projects\RPGBattleGame\RPGBattleGame\obj\Debug\net7.0\RPGBattleGame.csproj.CoreCompileInputs.cache
+C:\projects\RPGBattleGame\RPGBattleGame\obj\Debug\net7.0\RPGBattleGame.dll
+C:\projects\RPGBattleGame\RPGBattleGame\obj\Debug\net7.0\refint\RPGBattleGame.dll
+C:\projects\RPGBattleGame\RPGBattleGame\obj\Debug\net7.0\RPGBattleGame.pdb
+C:\projects\RPGBattleGame\RPGBattleGame\obj\Debug\net7.0\RPGBattleGame.genruntimeconfig.cache
+C:\projects\RPGBattleGame\RPGBattleGame\obj\Debug\net7.0\ref\RPGBattleGame.dll
